@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 12 18:25:10 2014
-GDS820C 150MHz Ocsilloscope
-NOTE : to connect the oscilloscope, you should use a NULL RS232 modem, or to reverse the order of pin 2 and 3 (send pin 2 onto pin 3 and pin 3 onto pin 2) while keeping pin 5 onto pin 5.
-Make sure the baudrate is set to the correct value
-@author: pfduc
-"""
-
-
 
 #!/usr/bin/env python  
 import numpy as np
@@ -17,21 +8,6 @@ import Tool
 from struct import pack,unpack
 import pylab as plt
 
-
-"""
-when I ask from the terminal it accepts the command i.read(), I can send i.write("*IDN?") followed by i.read(), it also works from the file.close
-But it doesn't work with acquire...
-
-It actually works,
-
-Now it seems the problem is with the trigger, I should try the option with the delay trigger...
-
-I connected with serial and it works,
-
-the time needed to fetch the data is about 1.6 second and it seems low to me I will see what I can do for that.
-
-
-"""
 
 param={'CH1':'V','CH2':'V','phase':'deg','Z':'Ohm','Z2':'Ohm'}
 
