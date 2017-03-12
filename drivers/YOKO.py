@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 12 16:16:02 2013
-
-@author: Sam
-"""
-
-
 #!/usr/bin/env python  
 import time 
 import random
