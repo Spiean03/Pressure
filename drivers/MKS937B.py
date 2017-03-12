@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 14:29:57 2015
-
-@author: pfduc
-"""
 
 import time
 try:
