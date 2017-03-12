@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 13 13:31:59 2013
-This is the driver for PFEIFER Smart_Test leakdetector serial number:21255069 
-the serial address is chosen in front panel of smart test as 030 out of 255 possible
-@author: Michel
-"""
 #import visa
 import numpy as np
 import random
