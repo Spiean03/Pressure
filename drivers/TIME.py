@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 05 05:09:37 2013
-
-@author: pf
-"""
-
 import Tool
 import time
 
