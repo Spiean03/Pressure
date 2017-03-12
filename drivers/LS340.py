@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 29 14:28:29 2012
-Lakeshore 340 Driver
-@author: Bram
-issues:
-   - need to hardcode limits of valid setPoint() resistance input
-"""
 #import visa
 import random
 #import alarm_toolbox as alarm
