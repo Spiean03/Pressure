@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# 2014-07-11 DHT22.py
-
 import time
 import atexit
 
