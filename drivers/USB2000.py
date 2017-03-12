@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 29 14:28:29 2012
-Lakeshore 332 Driver
-@author: Bram
-"""
 try:
     import usb.core
 except:
