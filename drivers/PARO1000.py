@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 08 13:31:59 2013
-Paroscientific Digiquartz Pressure sensor 1000 Driver
-@author: PF
-"""
-
 import random
 import Tool
       
