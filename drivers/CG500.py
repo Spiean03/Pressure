@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 29 14:28:29 2012
-Cryogenic 500 Level Meter Driver
-@author: PF
-
-"""
 #import visa
 import random
 #import alarm_toolbox as alarm
