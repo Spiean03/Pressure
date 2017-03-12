@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed June 12 17:26:26 2014
-Agilent E4400B 1GHz signal generator
-@author: pfduc
-"""
-
 #!/usr/bin/env python  
 import numpy as np
 import time
