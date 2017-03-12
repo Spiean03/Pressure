@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 16 15:02:46 2015
-
-@author: pfduc
-"""
-
 #!/usr/bin/env python  
 
 '''
