@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 06 14:07:29 2014
-Phoenix L300 Leak Detector
-@author: PF
-"""
-
 #import visa
 import random
 import Tool
