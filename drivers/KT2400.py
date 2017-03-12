@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May 16 16:22:26 2012
-Keithley 2400
-@author: Bram
-"""
-
 #!/usr/bin/env python  
 import time  
       
