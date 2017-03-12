@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 21 18:53:58 2015
-
-@author: pfduc
-"""
-
 
 #import visa
 import random
