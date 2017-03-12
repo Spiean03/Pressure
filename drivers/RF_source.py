@@ -1,9 +1,5 @@
 #!/usr/bin/env python  
 
-'''
-class to talk to SCPI-compliant RF sources. Tested on Agilent E4400B
-'''
-
 import Tool
 
 param={'':''}
