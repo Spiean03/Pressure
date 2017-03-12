@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 25 14:01:13 2013
-
-@author: Lilly Tong
-"""
-
 import os, time, sys
 import Tool
 import random
