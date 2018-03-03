@@ -14,10 +14,10 @@ import numpy as _np
 
 
 #enter the corresponding information from your Twitter application:
-CONSUMER_KEY = 'Z0I3rTSi5CcDwuNCbSYgqhQ7o'#keep the quotes, replace this with your consumer key
-CONSUMER_SECRET = 'MmN8hpT7HK95OqFSyNpfwJD3kx7QrUQYFlIi5KdCy9jOB6T2u3'#keep the quotes, replace this with your consumer secret key
-ACCESS_KEY = '4242707233-9sC2HkWKFZobdQDqyil4t8en3UYFGwceDNX6EOS'#keep the quotes, replace this with your access token
-ACCESS_SECRET = 'eLkFMZam9Kp2tF6N3METpzLgq4KFB9gb1k8SHrUvZQ0Wu'#keep the quotes, replace this with your access token secret
+CONSUMER_KEY = ''#keep the quotes, replace this with your consumer key
+CONSUMER_SECRET = ''#keep the quotes, replace this with your consumer secret key
+ACCESS_KEY = ''#keep the quotes, replace this with your access token
+ACCESS_SECRET = ''#keep the quotes, replace this with your access token secret
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
